@@ -24,6 +24,14 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/federico-pastore-402222296/)
 - [Gmail](federicopastore.dev@gmail.com)
 
+
+
+## Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devFede00&layout=compact)
+
+![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=devFede00&show_icons=true&theme=radical)
+
+
 Thanks for visiting my GitHub profile! 😊
 
 
