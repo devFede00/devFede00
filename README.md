@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Federico]!
+# 👋 Hi, I'm Federico!
 
 I'm a programming enthusiast who is always looking to improve and learn new things. 
 I love learning, experimenting, and applying my knowledge through hands-on projects. 
