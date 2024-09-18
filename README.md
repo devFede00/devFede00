@@ -7,14 +7,17 @@ I believe that programming is a continuous journey of growth, and that's why I c
 ## 🔧 Technical Skills
 - **Programming Languages:** Java, Kotlin, JavaScript, C, Python
 - **Frameworks and Libraries:** Node.js, Express, Spring
-- **Web Development:** HTML5, CSS3, JavaScript (ES6+) 
+- **Web Development:** HTML5, CSS3, JavaScript (ES6+), Java
 - **Version Control:** Git, GitHub, Gitlab
 - **Others:** Arduino, Linux, Docker, Raspberry, SQL
 
 ## 🚀 What I'm Currently Learning
 I'm always evolving and currently focusing on:
-- Back-End Development Web (Java with Framework Spring)
 - Android Development (Kotlin)
+- Back-End Development Web (Java with Framework Spring)
+
+## 🥸 About me
+When I’m not programming, you’ll probably find me listening to a lot of music, watching a movie, or working out at the gym! I love music; I’m a nerd about it! 🎧
 
 ## 📫 How to Reach Me
 You can find me on:
