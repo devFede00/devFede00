@@ -21,8 +21,9 @@ When I’m not programming, you’ll probably find me listening to a lot of musi
 
 ## 📫 How to Reach Me
 You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/federico-pastore-402222296/)
-- ![Gmail](https://shields.io)(mailto:federicopastore.dev@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federicopastore.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-pastore-402222296/)
 
 
 
