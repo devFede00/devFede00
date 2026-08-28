@@ -25,14 +25,6 @@ You can find me on:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federicopastore.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-pastore-402222296/)
 
-
-
-## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devFede00&layout=compact)
-
-![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=devFede00&show_icons=true&theme=radical)
-
-
 Thanks for visiting my GitHub profile! 😊
 
 
